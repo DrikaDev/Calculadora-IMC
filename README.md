@@ -21,3 +21,5 @@ Para calcular devemos dividir seu peso pela altura elevada ao quadrado.
   <td> <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </td>
 </tr>
 </table>
+
+https://user-images.githubusercontent.com/102387476/215623020-6e22854e-a607-48c8-bd4d-7fbb63871dfe.mp4
